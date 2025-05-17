@@ -3,12 +3,7 @@
 
 Reelflow is a mobile application that allows users to easily browse and view short videos. It provides a user-friendly interface for seamless video playback and navigation. The app leverages modern technologies and follows the MVVM architecture pattern to deliver a smooth and engaging video viewing experience.
 
-## Screenshots
-<div floar = "left">
-<img src="https://github.com/Beastharsh970/Reelflow/assets/113460573/5139c1a3-8d43-48b4-9077-b3f647e0b065" width=35% height=35%>
-<img src="https://github.com/Beastharsh970/Reelflow/assets/113460573/72198e46-e5e4-4ad6-9005-e26f3325f8f4" width=35% height=35%>
-<img src="https://github.com/Beastharsh970/Reelflow/assets/113460573/a5ce681f-84e9-423e-866e-763a3b443281" width=35% height=35%>    
-<div/>
+
 
 ## Demo
 
